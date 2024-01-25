@@ -1,8 +1,8 @@
 import React from "react";
 import "./main.css";
 import logo from "./img/logo.png";
-import img from "./img/img.png";
-import img1 from "./img/img1.png";
+import img from "./img/imgb.png";
+import img1 from "./img/imga.png";
 import frame from "./img/frame.png";
 export default function Header() {
   return (
